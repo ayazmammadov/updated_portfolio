@@ -1,0 +1,8 @@
+footer{
+  background-color: black;
+  color: white;
+  grid-column: 1 / -1;  /*Can you explain what this does?*/
+  grid-row: 7 / auto;   /*Can you rewrite it?*/
+  padding-top: 30px;
+  text-align: center;
+}
